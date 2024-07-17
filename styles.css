@@ -1,0 +1,63 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #1c1d1a;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Playwrite CU", cursive;
+  text-shadow: 10px 0 #232931cb;
+  font-size: 5rem;
+  color: #7ee4c2;
+}
+
+p{
+  font-size: 2rem;
+  color: #7ee4c2;
+  font-family: 'Indie Flower', cursive;
+}
+
+
+
+button{
+  background-color: #1c1d1a;
+  border-style: dashed solid;
+  border-color: aliceblue;
+}
+
+
+.again{
+  margin-top: 7%;
+  width: 70%;
+  background-color: #1c1d1a;
+  border-style: dashed solid;
+  border-color: aliceblue;
+}
+
+.dice{
+  font-size: 2rem;
+  color: #7ee4c2;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
